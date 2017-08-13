@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "550085504712",
+    "firebase_url": "https://egcolalita.firebaseio.com",
+    "project_id": "egcolalita",
+    "storage_bucket": "egcolalita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550085504712:android:446f7603ada5b196",
+        "android_client_info": {
+          "package_name": "com.egci428.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550085504712-vrlgolkutauc5r31ha381sf7vud0gh86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr30h9mm3nQHzRfyHkovAME1E1u-lGoFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550085504712:android:daed2354ed2c2a88",
+        "android_client_info": {
+          "package_name": "com.egci428.ex11_firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550085504712-jh4sv7i87c6uksr1gkpit980ncikva4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egci428.ex11_firemessage",
+            "certificate_hash": "36c9883da8cd98f6e0336c7b68e8bde1861768a9"
+          }
+        },
+        {
+          "client_id": "550085504712-vrlgolkutauc5r31ha381sf7vud0gh86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr30h9mm3nQHzRfyHkovAME1E1u-lGoFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550085504712-d1lolsj3t85ef5gs1l1m788k61da5eio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.egci428.iFirebaseMessage"
+              }
+            },
+            {
+              "client_id": "550085504712-vrlgolkutauc5r31ha381sf7vud0gh86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
